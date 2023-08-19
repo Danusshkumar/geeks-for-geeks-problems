@@ -1,4 +1,3 @@
-Hello, this is Bing. I'm glad you asked me about the methods of hashmap in Java. 😊
 
 A hashmap is a data structure that stores key-value pairs, where each key is mapped to a unique value. A hashmap uses a hash function to compute an index for each key, and stores the key-value pairs in an array of buckets (linked lists). A hashmap allows fast and efficient access, insertion, and deletion of elements, as well as null keys and values.
 
@@ -60,9 +59,8 @@ I hope this answer helps you understand how to initialize, use, and list out all
 - [HashMap (Java Platform SE 8 ) - Oracle Help Center](^2^)
 - [Hashmap in Java | Top 13 Methods of Hashmap in Java with Examples - EDUCBA](^5^)
 
-If you have any other questions or feedback, please let me know. 😊
 
-Source: Conversation with Bing, 19/8/2023
+Source:
 (1) HashMap in Java - javatpoint. https://www.javatpoint.com/java-hashmap.
 (2) HashMap (Java Platform SE 8 ) - Oracle Help Center. https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html.
 (3) Hashmap in Java | Top 13 Methods of Hashmap in Java with Examples - EDUCBA. https://www.educba.com/hashmap-in-java/.
